@@ -1,4 +1,4 @@
-% function embed(carrierPath,ER,stegoPath)
+function embed(carrierPath,ER,stegoPath)
 % this is your embedding algorithm
 %   input:
 %           carrierPath: the path of the carrier image.
